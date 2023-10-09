@@ -11,5 +11,7 @@ cd api-gateway; yarn start:dev
 # To up the Microservices
 
 cd user-service; yarn start:dev
+
 cd product-service; yarn start:dev
+
 cd order-service; yarn start:dev
